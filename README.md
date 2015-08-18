@@ -1,0 +1,1 @@
+These are translation to Japanese of http://kernelnewbies.org/LinuxChanges .
