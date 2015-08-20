@@ -1,1 +1,1 @@
-These are translation to Japanese of http://kernelnewbies.org/LinuxChanges .
+These are personal memo of Linux kernel changes referring to http://kernelnewbies.org/LinuxChanges .
